@@ -38,7 +38,7 @@
 
     <div
       class="citation-authors"
-      {% if citation.authors.size > 10 %}
+      {% if citation.authors.size > 5 %}
         data-tooltip="{{ citation.authors | join: ", " }} "
       {% endif %}
       tabindex="0"
@@ -47,7 +47,7 @@
         citation.authors
         | join: ","
         | split: ","
-        | array_carve: 5
+        | array_carve: 10
         | join: ", "
         | default: "[no author info]"
       }}
@@ -55,10 +55,11 @@
 
     <div class="citation-details">
       {{ citation.publisher | default: "[no publisher info]" }}
-      &nbsp; · &nbsp;
+      <!--&nbsp; · &nbsp;
       {{ citation.date | default: "[no date info]" | date: "%d %b %Y" }}
       &nbsp; · &nbsp;
-      {{ citation.id | default: "[no id info]" }}
+      {{ citation.id | default: "[no id info]" }}-->
+      
     </div>
 
     {% if include.style == "rich" %}
