@@ -3,7 +3,7 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-book
   description: Principal Investigator
 
 postdoc:
@@ -11,12 +11,16 @@ postdoc:
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-book-open-reader
   description: PhD Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+
+master:
+  icon: fa-solid fa-user-graduate
+  description: Master Student
 
 programmer:
   icon: fa-solid fa-code
@@ -25,6 +29,18 @@ programmer:
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
+
+alumni:
+  icon: fa-solid fa-graduation-cap
+  description: Alumni 
+
+# field
+
+computer:
+  description: Computer Engineering
+
+genetic:
+  description: Molecular Biology & Genetics
 
 # general
 

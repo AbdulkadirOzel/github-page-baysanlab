@@ -1,23 +1,80 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+ - id: doi:10.1007/s11517-022-02707-9
+   authors:
+     - Ranan Aktas
+     - Ali Cakmak
+     - Huzeyfe Ayaz
+     - Soykan Arıkan
+     - Ali R. Ibrahimzada
+     - Şeyda Demirkol
+     - Dilara Sönmez
+     - Mehmet T. Hakan
+     - Saime T. Sürmen
+     - Cem Horozoğlu
+     - Mehmet B. Doğan
+     - Özlem Küçükhüseyin
+     - Canan Cacına
+     - Bayram Kıran
+     - Ümit Zeybek
+     - Mehmet Baysan
+     - İlhan Yaylım
+ - id: doi:10.1158/1538-7445.CRC22-A029
+ - id: doi:10.26650/JARHS2021-1135821
+ - id: doi:10.3906/biy-2008-8
+ - id: doi:10.21541/apjes.403727
+ - id: doi:10.1002/ijc.30887
+ - id: doi:10.1016/j.gene.2016.04.042
+ - id: doi:10.1093/neuonc/nou275.4
+ - id: doi:10.1371/journal.pone.0094045
+ - id: doi:10.4137/CIN.S22020
+ - id: doi:10.1016/j.orl.2013.10.002
+ - id: doi:10.1371/journal.pone.0062982
+ - id: doi:10.1016/j.dam.2012.08.003
+ - id: doi:10.1371/journal.pone.0051407
+ - id: doi:10.1371/journal.pone.0047839
+ - id: doi:10.1016/j.adhoc.2012.03.009
+ - id: doi:10.1007/s10951-011-0264-7
+ - id: doi:10.1016/j.dam.2010.12.022
+ - id: doi:10.1109/TPDS.2008.169
+ - id: doi:10.1016/j.adhoc.2007.06.002
+ - id: doi:10.1109/.2006.1629387
+   date: '2006-01-01'
+ - id: doi:10.1109/BROADNETS.2004.44
+   date: '2004-01-01'
+ - id: doi:10.1109/TCBB.2020.3008196
+ - id: doi:10.1016/j.eswa.2020.113762
+ - id: doi:10.1145/3481646.3481649
+ - id: doi:10.1142/s0219720020500262
+ - id: doi:10.3906/elk-1809-167
+ - id: doi:10.1080/03155986.2018.1533204
+ - id: doi:10.3906/elk-1806-96
+ - id: doi:10.1142/S0219525918500108
+ - id: doi:10.18201/ijisae.2017526690
+ - id: doi:10.1145/2661829.2662066
+ - id: doi:10.1093/database/bau091
+ - id: doi:10.1145/2506583.2506621
+ - id: doi:10.1186/1752-0509-6-67
+ - id: doi:10.1145/2384691.2384696
+ - id: doi:10.1142/S0219720012400033
+ - id: doi:10.1186/1752-0509-5-188
+ - id: doi:10.1145/2147805.2147856
+ - id: doi:10.1145/1854776.1854799
+ - id: doi:10.1145/1854776.1854855
+ - id: doi:10.1142/S0219720010004604
+ - id: doi:10.1145/1774088.1774417
+ - id: doi:10.1093/bioinformatics/btn459
+ - id: doi:10.1109/ISCIS.2009.5291838
+ - id: doi:10.1109/ISCIS.2009.5291881
+ - id: doi:10.1007/s00778-008-0099-9
+ - id: doi:10.1186/1471-2105-9-143
+ - id: doi:10.1145/1353343.1353372
+ - id: doi:10.1093/bioinformatics/btm409
+ - id: doi:10.1109/SSDBM.2007.35
+ - id: doi:10.1109/ICDEW.2007.4401002
+ - id: doi:10.1142/9789812772435_0022
+ - id: doi:10.1109/SSDBM.2006.49
+   date: '2006-07-24'
+ - id: doi:10.1109/SSDBM.2006.36
+   date: '2006-07-24'
+ - id: doi:10.1007/11599517_66
+ - id: doi:10.1093/bioinformatics/btp520
+ 

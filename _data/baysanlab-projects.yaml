@@ -1,0 +1,24 @@
+- title: Comparative Sequencing Analysis Platform
+  group: featured
+  image: images/project3_bl.png
+  link: /BaysanLab/projects/cosap.html
+  description: CoSAP is an easy yet comprehensive pipeline creation tool for NGS data...
+  tags:
+    - bioinformatics
+    - genomic
+    - pipeline
+    - workflow
+    - NGS
+
+- title: Relation Of Methylation with Survival, p53 Mutation and Low Apoptosis in Cancer
+  group: featured
+  image: images/methylation_project.png
+  link: /BaysanLab/projects/methylation.html
+  description: One of the most crucial epigenetic processes that permits cells to specialize ...
+  tags:
+    - methylation
+    - cancer
+    - mutation
+    - apoptosis
+    - epigenetic
+

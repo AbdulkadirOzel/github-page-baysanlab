@@ -1,0 +1,119 @@
+- title: Multi-Omics-supported Personalized Treatment Recommendation for Patients
+  group: featured
+  image: images/cakmaklab_project/multi-omics-1.png
+  link: /CakmakLab/projects/multi-omics.html
+  description: Increasing availability of high throughput omics data at decreasing costs ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
+
+- title: Drug Repositioning
+  group: featured
+  image: images/cakmaklab_project/drug-repo.png
+  link: /CakmakLab/projects/drug-repositioning.html
+  description: The main purpose of this research is to develop a metabolism-based pipeline ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
+
+- title: Computational Discovery of New Drug Targets
+  group: featured
+  image: images/cakmaklab_project/new-drug-target.svg
+  link: /CakmakLab/projects/new-drug-targets.html
+  description: The main purpose of this research is to develop a metabolism-based pipeline ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
+
+- title: Personalized Metabolic Analysis of Diseases
+  group: featured
+  image: images/cakmaklab_project/pers-meto-1.jpg
+  link: /CakmakLab/projects/personalized-metobolomics.html
+  description: The metabolic wiring of cells is altered drastically in many diseases ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
+  
+- title: Predicting Future Covid-19 Mutations
+  group: featured
+  image: images/cakmaklab_project/predicting-covid19.svg
+  link: /CakmakLab/projects/predicting-covid19.html
+  description: Covid-19 continues to spread over the world steadily as opposed to ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
+
+- title: Colorectal Cancer Risk Screening
+  group: featured
+  image: images/cakmaklab_project/col-cancer.svg
+  link: /CakmakLab/projects/col-cancer.html
+  description: Covid-19 continues to spread over the world steadily as opposed to ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
+
+- title: Scalable Taxonomy Classification
+  group: featured
+  image: images/cakmaklab_project/classification.jpg
+  link: /CakmakLab/projects/classification.html
+  description: Various fields of applied biology (e.g., agriculture) depend on the ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
+
+- title: Mining for Unknown Pathways
+  group: featured
+  image: images/cakmaklab_project/mining-pathways.jpg
+  link: /CakmakLab/projects/mining-pathways.html
+  description: Many essential biological pathways still remain unknown or incomplete ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
+
+- title: Automatic Inference of Gene/Protein Annotations from Literature through Text Mining
+  group: featured
+  image: images/cakmaklab_project/annotation-text-mining.jpg
+  link: /CakmakLab/projects/annotation-text-mining.html
+  description: Genes and proteins are frequently annotated with the Gene Ontology (GO) ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
+
+- title: Metabolism Query Language
+  group: featured
+  image: images/cakmaklab_project/metabolism-query-1.jpg
+  link: /CakmakLab/projects/metabolism-query.html
+  description: In another research, we designed a “metabolism query language” (MQL) ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database

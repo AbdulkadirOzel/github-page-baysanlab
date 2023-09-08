@@ -1,0 +1,358 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: 10.1007/s11517-022-02707-9
+  title: Predicting the predisposition to colorectal cancer based on SNP profiles
+    of immune phenotypes using supervised learning models
+  authors:
+  - Ali Cakmak
+  - Huzeyfe Ayaz
+  - "Soykan Ar\u0131kan"
+  - Ali R. Ibrahimzada
+  - "\u015Eeyda Demirkol"
+  - "Dilara S\xF6nmez"
+  - Mehmet T. Hakan
+  - "Saime T. S\xFCrmen"
+  - "Cem Horozo\u011Flu"
+  - "Mehmet B. Do\u011Fan"
+  - "\xD6zlem K\xFC\xE7\xFCkh\xFCseyin"
+  - "Canan Cac\u0131na"
+  - "Bayram K\u0131ran"
+  - "\xDCmit Zeybek"
+  - Mehmet Baysan
+  - "\u0130lhan Yayl\u0131m"
+  publisher: Medical &amp; Biological Engineering &amp; Computing
+  date: '2022-11-11'
+  link: https://doi.org/gsh7d4
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1158/1538-7445.CRC22-A029
+  title: 'Abstract A029: Investigating primary colorectal cancer tumor and liver metastasis
+    clonality through whole exome sequencing of synchronous biopsies'
+  authors:
+  - Duygu Altinok Dindar
+  - "Batuhan K\u0131sakol"
+  - Sahin Sarihan
+  - Mehmet Arif Ergun
+  - John Cheney
+  - Emel Ergul
+  - Nihal Uren
+  - Ender Dulundu
+  - Emine Bozkurtlar
+  - Nihat Zafer Utkan
+  - Mehmet Baysan
+  publisher: Cancer Research
+  date: '2022-12-01'
+  link: https://doi.org/gsh7d5
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.26650/JARHS2021-1135821
+  title: DATA SCIENCE, CANCER AND SEQUENCING ANALYSES
+  authors:
+  - Mehmet Baysan
+  publisher: "Sa\u011Fl\u0131k Bilimlerinde \u0130leri Ara\u015Ft\u0131rmalar Dergisi\
+    \ / Journal of Advanced Research in Health Sciences"
+  date: '2022-08-08'
+  link: https://doi.org/gsh7d6
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.3906/biy-2008-8
+  title: Detailed evaluation of cancer sequencing pipelines in different microenvironments
+    and heterogeneity levels
+  authors:
+  - Batuhan KISAKOL
+  - "\u015Eahin SARIHAN"
+  - "Mehmet Arif ERG\xDCN"
+  - Mehmet BAYSAN
+  publisher: TURKISH JOURNAL OF BIOLOGY
+  date: '2021-04-20'
+  link: https://doi.org/gsh7d7
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.21541/apjes.403727
+  title: "Homojen Glioblastoma \xD6rneklerinin Y\xFCksek \xC7\xF6z\xFCn\xFCrl\xFC\
+    kl\xFC Genetik Teknolojiler ile Analizi"
+  authors:
+  - Mehmet Baysan
+  publisher: Academic Platform Journal of Engineering and Science
+  date: '2018-08-03'
+  link: https://doi.org/gsh6qm
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1002/ijc.30887
+  title: "Detailed longitudinal sampling of glioma stem cells <i>in situ</i>\n reveals\
+    \ Chr7 gain and Chr10 loss as repeated events in primary tumor formation and recurrence"
+  authors:
+  - Mehmet Baysan
+  - Kevin Woolard
+  - Margaret C. Cam
+  - Wei Zhang
+  - Hua Song
+  - Svetlana Kotliarova
+  - Demosthenes Balamatsias
+  - Amanda Linkous
+  - Susie Ahn
+  - Jennifer Walling
+  - Galina I. Belova
+  - Howard A. Fine
+  publisher: International Journal of Cancer
+  date: '2017-08-21'
+  link: https://doi.org/gsh6qg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.gene.2016.04.042
+  title: Gene expression profiles of autophagy-related genes in multiple sclerosis
+  authors:
+  - Mehri Igci
+  - Mehmet Baysan
+  - Remzi Yigiter
+  - Mustafa Ulasli
+  - Sirma Geyik
+  - Recep Bayraktar
+  - "\u0130brahim Bozgeyik"
+  - Esra Bozgeyik
+  - Ali Bayram
+  - Ecir Ali Cakmak
+  publisher: Gene
+  date: '2016-08-01'
+  link: https://doi.org/f8sqkk
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1093/neuonc/nou275.4
+  title: SC-04 * NON-UNIFORM NOTCH SIGNALING UNDERLIES HETEROGENEITY WITHIN THE GLIOBLASTOMA
+    STEM CELL POPULATION
+  authors:
+  - N. Sumru Bayin
+  - S. Si
+  - A. Modrek
+  - H.-R. Song
+  - D. Zagzag
+  - D. M. Hoang
+  - Y. Z. Wadghiri
+  - I. Dolgalev
+  - M. Baysan
+  - A. Heguy
+  - M. H. Barcellos-Hoff
+  - D. Placantonakis
+  publisher: Neuro-Oncology
+  date: '2014-11-01'
+  link: https://doi.org/gsh7d8
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1371/journal.pone.0094045
+  title: Micro-Environment Causes Reversible Changes in DNA Methylation and mRNA Expression
+    Profiles in Patient-Derived Glioma Stem Cells
+  authors:
+  - Mehmet Baysan
+  - Kevin Woolard
+  - Serdar Bozdag
+  - Gregory Riddick
+  - Svetlana Kotliarova
+  - Margaret C. Cam
+  - Galina I. Belova
+  - Susie Ahn
+  - Wei Zhang
+  - Hua Song
+  - Jennifer Walling
+  - Holly Stevenson
+  - Paul Meltzer
+  - Howard A. Fine
+  publisher: PLoS ONE
+  date: '2014-04-11'
+  link: https://doi.org/f58dxs
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.4137/CIN.S22020
+  title: "Correction to \u201CMaster Regulators, Regulatory Networks, and Pathways\
+    \ of Glioblastoma Subtypes\u201D"
+  authors:
+  - Serdar Bozdag
+  - Aiguo Li
+  - Mehmet Baysan
+  - Howard A. Fine
+  publisher: Cancer Informatics
+  date: '2014-01-01'
+  link: https://doi.org/gsm3nd
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.orl.2013.10.002
+  title: Approximation algorithm for the on-line multi-customer two-level supply chain
+    scheduling problem
+  authors:
+  - Igor Averbakh
+  - Mehmet Baysan
+  publisher: Operations Research Letters
+  date: '2013-11-01'
+  link: https://doi.org/f5mvhz
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1371/journal.pone.0062982
+  title: Age-Specific Signatures of Glioblastoma at the Genomic, Genetic, and Epigenetic
+    Levels
+  authors:
+  - Serdar Bozdag
+  - Aiguo Li
+  - Gregory Riddick
+  - Yuri Kotliarov
+  - Mehmet Baysan
+  - Fabio M. Iwamoto
+  - Margaret C. Cam
+  - Svetlana Kotliarova
+  - Howard A. Fine
+  publisher: PLoS ONE
+  date: '2013-04-29'
+  link: https://doi.org/gsh6qj
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.dam.2012.08.003
+  title: Batching and delivery in semi-online distribution systems
+  authors:
+  - Igor Averbakh
+  - Mehmet Baysan
+  publisher: Discrete Applied Mathematics
+  date: '2013-01-01'
+  link: https://doi.org/gsh7d9
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1371/journal.pone.0051407
+  title: Histone Demethylase Jumonji D3 (JMJD3) as a Tumor Suppressor by Regulating
+    p53 Protein Nuclear Stabilization
+  authors:
+  - Chibawanye I. Ene
+  - Lincoln Edwards
+  - Gregory Riddick
+  - Mehmet Baysan
+  - Kevin Woolard
+  - Svetlana Kotliarova
+  - Chen Lai
+  - Galina Belova
+  - Maggie Cam
+  - Jennifer Walling
+  - Ming Zhou
+  - Holly Stevenson
+  - Hong Sug Kim
+  - Keith Killian
+  - Timothy Veenstra
+  - Rolanda Bailey
+  - Hua Song
+  - Wei Zhang
+  - Howard A. Fine
+  publisher: PLoS ONE
+  date: '2012-12-07'
+  link: https://doi.org/gsh6qk
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1371/journal.pone.0047839
+  title: G-Cimp Status Prediction Of Glioblastoma Samples Using mRNA Expression Data
+  authors:
+  - Mehmet Baysan
+  - Serdar Bozdag
+  - Margaret C. Cam
+  - Svetlana Kotliarova
+  - Susie Ahn
+  - Jennifer Walling
+  - Jonathan K. Killian
+  - Holly Stevenson
+  - Paul Meltzer
+  - Howard A. Fine
+  publisher: PLoS ONE
+  date: '2012-11-06'
+  link: https://doi.org/f4g4t5
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.adhoc.2012.03.009
+  title: Polynomial time solution to minimum forwarding set problem in wireless networks
+    under disk coverage model
+  authors:
+  - Mehmet Baysan
+  - Kamil Sarac
+  - R. Chandrasekaran
+  publisher: Ad Hoc Networks
+  date: '2012-09-01'
+  link: https://doi.org/gsh7fb
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s10951-011-0264-7
+  title: Semi-online two-level supply chain scheduling problems
+  authors:
+  - Igor Averbakh
+  - Mehmet Baysan
+  publisher: Journal of Scheduling
+  date: '2011-12-29'
+  link: https://doi.org/fx6mmp
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.dam.2010.12.022
+  title: On a labeling problem in graphs
+  authors:
+  - R. Chandrasekaran
+  - M. Dawande
+  - M. Baysan
+  publisher: Discrete Applied Mathematics
+  date: '2011-04-01'
+  link: https://doi.org/chbsps
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/TPDS.2008.169
+  title: A Polynomial Time Solution to Minimum Forwarding Set Problem in Wireless
+    Networks under Unit Disk Coverage Model
+  authors:
+  - M. Baysan
+  - K. Sarac
+  - R. Chandrasekaran
+  - S. Bereg
+  publisher: IEEE Transactions on Parallel and Distributed Systems
+  date: '2009-07-01'
+  link: https://doi.org/c82858
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.adhoc.2007.06.002
+  title: Variable power broadcast using local information in ad hoc networks
+  authors:
+  - Avinash Chiganmi
+  - Mehmet Baysan
+  - Kamil Sarac
+  - Ravi Prakash
+  publisher: Ad Hoc Networks
+  date: '2008-07-01'
+  link: https://doi.org/dq5drx
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/.2006.1629387
+  title: Cluster Based Approaches for End-to-End Complete Feedback Collection in Multicast
+  authors:
+  - M. Baysan
+  - K. Sarac
+  publisher: 2006 IEEE International Performance Computing and Communications Conference
+  date: '2006-01-01'
+  link: https://doi.org/ftp9gb
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/BROADNETS.2004.44
+  title: Improving energy savings in power adaptive broadcasting in MANETs
+  authors:
+  - M. Baysan
+  - S. Gowdamachandran
+  - K. Sarac
+  publisher: First International Conference on Broadband Networks
+  date: '2004-01-01'
+  link: https://doi.org/cwgrxj
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/
+  title: Modulation of YAP1 expression and other related signaling pathways in HepG2
+    cells by extracellular matrix, contact inhibition and cell density
+  authors:
+  - Ranan Aktas
+  - Zeynep Akbulut
+  - "Hatice Mara\u015F"
+  - "Yaprak \xC7ak\u0131l D\xF6nmez"
+  - "Damla Kayal\u0131"
+  - Ayca Karagoz Koroglu
+  - Mustafa Erinc Sitar
+  - "Batuhan K\u0131sakol"
+  - Mehmet Baysan
+  publisher: American Association for the Study of Liver Diseases
+  date: '2022-01-01'
+  link: http://acikerisim.maltepe.edu.tr/xmlui/handle/20.500.12415/10723
+  plugin: sources.py
+  file: sources.yaml

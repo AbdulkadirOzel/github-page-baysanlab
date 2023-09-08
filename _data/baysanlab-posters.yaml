@@ -1,0 +1,36 @@
+- title: A Flexible and Easy-to-use Pipeline for Next Generation Sequencing Analysis of Cancer Samples
+  group: featured
+  image: images/first-project.png
+  link: /BaysanLab/posters/A-Flexible-And-Easy.html
+  description: Genomic Pipeline is a software used for analyzing DNA sequence data...
+  tags:
+    - bioinformatics
+    - genomic
+    - pipeline
+    - workflow
+    - NGS
+
+- title: Identification of Genomic Alterations Associated with Tumor Aggression in Tumor Subtypes
+  group: featured
+  image: images/second-project.png
+  link: /BaysanLab/posters/Identification-of-genomic.html
+  description: Identifying the genomic alterations which lead to tumor progression is a very important problem to develop effective therapies...
+  tags:
+    - bioinformatics
+    - tumor
+    - NGS
+    - tumor progression
+    - mutation
+
+- title: Optimizing pipeline combinations for cancer sequencing
+  group: featured
+  image: images/third-project.png
+  link: /BaysanLab/posters/Optimizing-pipeline.html
+  description: The importance of Next Generation Sequencing (NGS) rises in cancer research as accessing this key technology becomes easier for researchers...
+  tags:
+    - bioinformatics
+    - cancer genomics
+    - sequencing
+    - ngs
+    - cancer research
+
