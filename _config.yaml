@@ -1,18 +1,15 @@
 # site properties and page defaults
-title: AbdulkadirOzel
+title: ITU BIOINFORMATICS RESEARCH GROUP
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Bu bir deneme yazısıdır.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
   email: contact@AbdulkadirOzel.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: AbdulkadirOzel
-  twitter: AbdulkadirOzel
-  youtube: AbdulkadirOzel
+  google-scholar: citations?user=P2WZPoEAAAAJ&hl=tr&oi=ao
+  github: /MBaysanLab
 
 ### jekyll settings
 
@@ -33,6 +30,11 @@ defaults:
       type: "posts"
     values:
       layout: post
+  # markdown files in /_posts
+  - scope:
+      type: "projects"
+    values:
+      layout: project
 
 collections:
   # generate page for each member
