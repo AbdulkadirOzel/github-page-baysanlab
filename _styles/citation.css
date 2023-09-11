@@ -9,7 +9,7 @@
 
 .citation-image {
   position: relative;
-  width: 180px;
+  width: 0;
   flex-shrink: 0;
 }
 
@@ -55,6 +55,10 @@
   opacity: 0.5;
   font-size: 30px;
   z-index: -1;
+}
+
+.citation-details {
+  font-style: italic;
 }
 
 .citation-description {

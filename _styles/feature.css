@@ -8,8 +8,8 @@
 
 .feature-image {
   flex-shrink: 0;
-  width: 40%;
-  aspect-ratio: 3/2;
+  width: 20%;
+  aspect-ratio: 2/1.5;
   border-radius: var(--rounded);
   overflow: hidden;
   box-shadow: var(--shadow);
