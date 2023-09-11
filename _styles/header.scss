@@ -1,11 +1,12 @@
 ---
 ---
 
-$logo-big: 80px;
+$logo-big: 140px;
 $logo: 40px;
-$big-padding: 100px;
+$big-padding: 15px;
 $collapse: 700px;
 $sticky: true;
+
 
 header {
   display: flex;
@@ -13,7 +14,7 @@ header {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 20px;
+  padding: 30px;
   box-shadow: var(--shadow);
 
   @if $sticky {
@@ -32,7 +33,7 @@ header a {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  gap: 10px;
+  gap: 5px;
   flex-basis: 0;
   flex-grow: 1;
   max-width: 100%;
@@ -44,7 +45,7 @@ header a {
 
 .logo > * {
   height: 100%;
-}
+  }
 
 .title {
   display: flex;
@@ -64,8 +65,8 @@ header a {
 
 // subtitle
 .title > *:last-child {
-  opacity: 0.65;
-  font-weight: var(--thin);
+  opacity: 0.85;
+  font-weight: var(--semi-bold);
 }
 
 .nav-toggle {
