@@ -124,7 +124,8 @@
     or page.dir == "/CakmakLab/publications/" 
     or page.dir == "/CakmakLab/people/" 
     or page.dir == "/CakmakLab/news/" 
-    or page.dir == "/CakmakLab/contact/" %}
+    or page.dir == "/CakmakLab/contact/"
+    or page.dir == "/CakmakLab/repo/" %}
       {% assign pages = site.pages
         | where_exp: "page", "page.nav"
         | sort: "nav.order"
