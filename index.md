@@ -12,7 +12,7 @@ Data mining, data management, databases: We develop data mining and management a
 ## Positions Available
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="/images/research_student_bg.png" width="180" height="240" style="margin-right: 25px;">
+  <img src="/github-page-baysanlab/images/research_student_bg.png" width="180" height="240" style="margin-right: 25px;">
 
   <p style="gap: 20px;">
   We are looking for graduate and undergraduate students to participate in various research projects! Candidates with good programming and analytical thinking skills are encouraged to apply. Research assistantship with TUBITAK/TUSEB support is available for qualified promising graduate students. Please contact us with your application by <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHzXpqPr0JQ2X71AHkqUtZ17Yes0GLKx1S9pLV0yDZABxjCw/viewform" style="text-decoration: none;">clicking here</a>.
