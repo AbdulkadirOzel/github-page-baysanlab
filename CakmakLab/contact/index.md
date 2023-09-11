@@ -13,8 +13,8 @@ Cakmak Lab is part of Faculty of Computer And Informatics Engineering at Istanbu
 {%
   include button.html
   type="email"
-  text="Baysan Lab"
-  link="baysan@gmail.com"
+  text="Çakmak Lab"
+  link="ali.cakmak@itu.edu.tr"
 %}
 {%
   include button.html
