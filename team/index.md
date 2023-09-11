@@ -1,35 +1,37 @@
 ---
-title: Team
+title: People
 nav:
-  order: 3
+  order: 7
   tooltip: About our team
+  main: 1
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# {% include icon.html icon="fa-solid fa-users" %}ITU Bioinformatics Research Group Members
+{:.center}
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Faculty
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: pi_cakmak" %}
+{% include list.html data="members" component="portrait" filters="role: pi_baysan" %}
+---
+### PhD Students
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: phd_baysan" %}
+{% include list.html data="members" component="portrait" filters="role: phd_cakmak" %}
+---
+### Master Students
+{:.center}
+{% include list.html data="members" component="portrait" filters="status: master" %}
+---
+### Undergrad Students
+{:.center}
+{% include list.html data="members" component="portrait" filters="status: undergrad" %}
+---
+### Alumni
+{:.center}
+{% include list.html data="members" component="portrait" filters="role: alumni_baysan" %}
+{% include list.html data="members" component="portrait" filters="role: alumni_cakmak" %}
 
 {% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
