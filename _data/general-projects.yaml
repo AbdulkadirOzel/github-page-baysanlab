@@ -1,4 +1,4 @@
-- title: Comparative Sequencing Analysis Platform
+- title: Ongoing Project:Comparative Sequencing Analysis Platform
   group: featured
   image: images/project3_bl.png
   link: /projects/baysanlab/cosap.html
@@ -9,6 +9,18 @@
     - pipeline
     - workflow
     - NGS
+
+- title: Ongoing Project:Multi-Omics-supported Personalized Treatment Recommendation for Patients
+  group: featured
+  image: images/cakmaklab_project/multi-omics-1.png
+  link: /projects/cakmaklab/multi-omics.html
+  description: Increasing availability of high throughput omics data at decreasing costs ...
+  tags:
+    - bioinformatics
+    - multi-omics
+    - diseases
+    - machine learning
+    - database
 
 - title: Relation Of Methylation with Survival, p53 Mutation and Low Apoptosis in Cancer
   group: featured
@@ -22,18 +34,6 @@
     - apoptosis
     - epigenetic
 
-- title: Multi-Omics-supported Personalized Treatment Recommendation for Patients
-  group: featured
-  image: images/cakmaklab_project/multi-omics-1.png
-  link: /projects/cakmaklab/multi-omics.html
-  description: Increasing availability of high throughput omics data at decreasing costs ...
-  tags:
-    - bioinformatics
-    - multi-omics
-    - diseases
-    - machine learning
-    - database
-
 - title: Drug Repositioning
   group: featured
   image: images/cakmaklab_project/drug-repo.png
@@ -41,9 +41,9 @@
   description: The main purpose of this research is to develop a metabolism-based pipeline ...
   tags:
     - bioinformatics
-    - multi-omics
-    - diseases
-    - machine learning
+    - drug
+    - metabolomics
+    - pipeline
     - database
 
 - title: Computational Discovery of New Drug Targets
@@ -53,10 +53,22 @@
   description: The main purpose of this research is to develop a metabolism-based pipeline ...
   tags:
     - bioinformatics
-    - multi-omics
+    - drug
+    - computational biology
+    - metabolomics
+    - database
+
+- title: Readmission Risk-based Discharge and Planned Admission Decision Support System
+  group: featured
+  image: images/cakmaklab_project/readmission.svg
+  link: /projects/cakmaklab/readmission-risk.html
+  description: Readmission of patients after a short period of time from their discharge costs ...
+  tags:
+    - decision
+    - readmission
     - diseases
     - machine learning
-    - database
+    - statistics
 
 - title: Personalized Metabolic Analysis of Diseases
   group: featured
@@ -64,9 +76,9 @@
   link: /projects/cakmaklab/personalized-metobolomics.html
   description: The metabolic wiring of cells is altered drastically in many diseases ...
   tags:
-    - bioinformatics
-    - multi-omics
-    - diseases
+    - personalized medicine
+    - metabolitics
+    - cancer
     - machine learning
     - database
   
@@ -76,9 +88,9 @@
   link: /projects/cakmaklab/predicting-covid19.html
   description: Covid-19 continues to spread over the world steadily as opposed to ...
   tags:
-    - bioinformatics
-    - multi-omics
-    - diseases
+    - covid-19
+    - mutation
+    - vaccine
     - machine learning
     - database
 
@@ -89,8 +101,8 @@
   description: Covid-19 continues to spread over the world steadily as opposed to ...
   tags:
     - bioinformatics
-    - multi-omics
-    - diseases
+    - cancer
+    - screening
     - machine learning
     - database
 
@@ -100,9 +112,9 @@
   link: /projects/cakmaklab/classification.html
   description: Various fields of applied biology (e.g., agriculture) depend on the ...
   tags:
-    - bioinformatics
-    - multi-omics
-    - diseases
+    - classification
+    - dna-sequencing
+    - taxonomy
     - machine learning
     - database
 
@@ -113,9 +125,9 @@
   description: Many essential biological pathways still remain unknown or incomplete ...
   tags:
     - bioinformatics
-    - multi-omics
-    - diseases
-    - machine learning
+    - pathway
+    - metabolomics
+    - data mining
     - database
 
 - title: Automatic Inference of Gene/Protein Annotations from Literature through Text Mining
@@ -125,10 +137,10 @@
   description: Genes and proteins are frequently annotated with the Gene Ontology (GO) ...
   tags:
     - bioinformatics
-    - multi-omics
-    - diseases
+    - text mining
+    - gene annotation
     - machine learning
-    - database
+    - automation
 
 - title: Metabolism Query Language
   group: featured
@@ -137,7 +149,7 @@
   description: In another research, we designed a “metabolism query language” (MQL) ...
   tags:
     - bioinformatics
-    - multi-omics
-    - diseases
+    - query language
+    - metabolomics
     - machine learning
     - database
