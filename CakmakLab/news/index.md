@@ -6,4 +6,4 @@ nav:
   CL: 1
 ---
 
-CakmakLab news page
+CakmakLab news page description

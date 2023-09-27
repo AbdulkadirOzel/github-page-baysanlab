@@ -7,7 +7,7 @@ nav:
   main: 1
 ---
 
-CakmakLab home page
+CakmakLab home page description
 
 ## Highlights
 
