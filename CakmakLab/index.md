@@ -7,13 +7,13 @@ nav:
   main: 1
 ---
 
-CakmakLab home page description
+CakmakLab home page
 
 ## Highlights
 
 {% capture text %}
 
-There are many projects carried out by our lab together. One of the prominent projects is the Comparative Sequencing Analysis Platform (CoSAP). CoSAP is an easy yet comprehensive pipeline creation tool for NGS data. It provides reproducibility and aims to give deeper insight about the powers and limitations of the current tools by allowing users to compare results of different pipelines.
+CakmakLab project description.
 
 {%
   include button.html
@@ -36,7 +36,7 @@ There are many projects carried out by our lab together. One of the prominent pr
 
 {% capture text %}
 
-Our up-to-date articles from members of Baysan Lab are shown in this section. You can access our article list in chronologic order from the link below.
+Our up-to-date articles from members of Cakmak Lab are shown in this section. You can access our article list in chronologic order from the link below.
 
 {%
   include button.html
