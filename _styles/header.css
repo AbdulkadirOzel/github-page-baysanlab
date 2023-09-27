@@ -113,7 +113,7 @@ nav > a:hover {
   header:not([data-big]) nav {
     align-items: flex-end;
     flex-direction: column;
-    width: 100%;
+    width: 150%;
   }
 }
 
@@ -141,6 +141,26 @@ header[data-big] .title > *:first-child {
 }
 header[data-big] .title > *:last-child {
   font-size: var(--large);
+}
+
+header[notmain] {
+  height: 130px;
+  display: flex;
+  justify-content: center;
+  top: unset;
+}
+header[notmain] .home {
+  flex-grow: 0;
+}
+header[notmain] nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-family: var(--heading);
+  text-transform: uppercase;
+  margin-bottom: 50px;
 }
 
 /*# sourceMappingURL=header.css.map */
