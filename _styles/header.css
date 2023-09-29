@@ -144,7 +144,7 @@ header[data-big] .title > *:last-child {
 }
 
 header[notmain] {
-  height: 100px;
+  height: 70px;
   display: flex;
   justify-content: center;
   top: unset;
