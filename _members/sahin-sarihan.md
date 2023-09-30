@@ -2,6 +2,7 @@
 name: Şahin Sarıhan, MSc
 image: images/baysanlab/sahin-sarihan.jpg
 role: alumni_baysan
+status: alumni
 description: Computer Engineering Working at Royal College of Surgeons in Ireland
 group: alum
 links:

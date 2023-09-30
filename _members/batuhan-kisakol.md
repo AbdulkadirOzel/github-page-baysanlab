@@ -2,6 +2,7 @@
 name: Batuhan Kısakol, MSc
 image: images/baysanlab/batuhan-kısakol.jpg
 role: alumni_baysan
+status: alumni
 group: alum
 description: Computer Engineering Working at Royal College of Surgeons in Ireland
 links:

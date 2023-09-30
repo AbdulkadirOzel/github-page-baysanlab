@@ -1,8 +1,9 @@
 ---
 name: Muhammed Hasan Çelik, MSc
-image: images/baysanlab/m-hasan-celik.jpeg
-role: alumni_baysan
-description: Computer Engineering Working at University of California, Irvine
+image: images/cakmaklab/m-hasan-celik.jpeg
+role: alumni_cakmak
+status: alumni
+description: Computer Engineering PhD at University of California, Irvine
 group: alum
 links:
   github: MuhammedHasan
