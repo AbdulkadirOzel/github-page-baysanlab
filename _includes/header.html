@@ -68,13 +68,20 @@
           page.dir == "/BaysanLab/people/" or 
           page.dir == "/BaysanLab/news/" or 
           page.dir == "/BaysanLab/contact/" %}
-            <div align = "left" style="position: absolute;left:40px;top:1em; font-size: 15px;"> 
-              <a href="/github-page-baysanlab/" > {{"ITU Bioinformatics Research Group"}}
+          <div style="height: 100px;">
+            <div style="display: inline-block; vertical-align: middle; position: absolute; top: 50%; left: 0; transform: translateY(-50%); margin-left: 20px;">
+              <a href="/github-page-baysanlab/">
+                <img src="{{ logo | relative_url }}" alt="logo" width="190" height="70" style="vertical-align: middle;">
+              </a>
             </div>
-            <br />
-              <div align = "left" style="position: absolute;left:40px;bottom:1.2em; font-size: 24px;">
-                <a href="/github-page-baysanlab/BaysanLab/" > {{"BAYSAN LAB"}}
-              </div>
+            <div style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); margin-right: 20px;">
+                <img src="/github-page-baysanlab/images/itu-white_1.png" alt="itu_logo" width="119" height="70">
+            </div>
+            <div style="width: 2px; height: 63%; background-color: #ffffff; position: absolute; left: 15%; top: 20px; transform: translateX(-50%);"></div>
+          </div>
+          <div style="display: inline-block; position: absolute; left: 16%; left: 10; transform: translateY(-50%); margin-top: 18px;">
+            <a href="/github-page-baysanlab/BaysanLab/" > {{"BAYSAN LAB"}}
+          </div>
           {% elsif page.dir == "/CakmakLab/" or 
           page.dir == "/CakmakLab/posters/" or 
           page.dir == "/CakmakLab/projects/" or 
@@ -90,19 +97,26 @@
                 </a>
               </div>
               <div style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); margin-right: 20px;">
-                <a href="/">
                   <img src="/github-page-baysanlab/images/itu-white_1.png" alt="itu_logo" width="119" height="70">
-                </a>
               </div>
-            <div style="width: 2px; height: 70%; background-color: #ffffff; position: absolute; left: 20%; top: 20px; transform: translateX(-50%);"></div>
+            <div style="width: 2px; height: 63%; background-color: #ffffff; position: absolute; left: 15%; top: 20px; transform: translateX(-50%);"></div>
             </div>
-            <div style="display: inline-block; position: absolute; left: 20%; left: 10; transform: translateY(-50%); margin-left: 20px; margin-top: 18px;">
+            <div style="display: inline-block; position: absolute; left: 16%; left: 10; transform: translateY(-50%); margin-top: 18px;">
               <a href="/github-page-baysanlab/CakmakLab/" > {{"CAKMAK LAB"}}
             </div>
           {% elsif page.dir == "/" %}
             {{" "}}
           {% else %}
-            <span> {{" "}} </span>
+          <div style="height: 100px;">
+            <div style="display: inline-block; vertical-align: middle; position: absolute; top: 50%; left: 0; transform: translateY(-50%); margin-left: 20px;">
+              <a href="/">
+                <img src="{{ logo | relative_url }}" alt="logo" width="190" height="70" style="vertical-align: middle;">
+              </a>
+            </div>
+            <div style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); margin-right: 20px;">
+                <img src="/images/itu-white_2.png/" alt="logo" width="119" height="70">
+            </div>
+          </div>
           {% endif %}
         {% endif %}
         {% if site.subtitle and site.show-subtitle != false %}
