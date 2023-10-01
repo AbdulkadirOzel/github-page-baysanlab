@@ -71,7 +71,7 @@ Baysan Lab mainly focuses on computational genomics and bioinformatics research.
 
 {% capture text %}
 
-Çakmak Lab description.
+Çakmak Lab focuses on mining, computational analysis, and management of data in different fields with a special focus on biological and health data.
 
 {%
   include button.html
