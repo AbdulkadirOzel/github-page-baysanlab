@@ -46,13 +46,25 @@ Baysan Lab and Çakmak Lab are part of Faculty of Computer And Informatics Engin
 
 {%
   include figure.html
+  image="images/lab-image.jpg"
+  caption="ITU Bioinformatics and Databases Lab"
+  height="315px"
+  width="315px"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
   image="images/faculty.jpg"
   caption="Computer & Informatics Faculty"
 %}
 
 {% endcapture %}
 
-{% capture col2 %}
+{% capture col3 %}
 
 {%
   include figure.html
@@ -62,5 +74,4 @@ Baysan Lab and Çakmak Lab are part of Faculty of Computer And Informatics Engin
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
-
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
