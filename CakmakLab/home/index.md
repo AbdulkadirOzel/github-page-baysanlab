@@ -8,13 +8,15 @@ nav:
   CL: 1
 ---
 
-Cakmak Lab home page
+# Çakmak Lab
+
+Our group focuses on mining, computational analysis, and management of data in different fields with a special focus on biological and health data. Hence, our research is mostly interdisciplinary spanning diverse fields including algorithm development, systems biology, medical informatics, and databases. In particular, we develop methods and tools to study high throuhput biological and clinical datasets with the broader goal of understading diseases with their underlying mechanisms. To this end, we employ and develop techniques from data science and machine learning to create models for personalized medicine applications.
 
 ## Highlights
 
 {% capture text %}
 
-There are many projects carried out by our lab together.....
+Check out the exciting research projects that our lab members have been working on!
 
 {%
   include button.html
@@ -29,7 +31,7 @@ There are many projects carried out by our lab together.....
 
 {%
   include feature.html
-  image="images/project3_bl.png"
+  image="images/cakmaklab_project/multi-omics-1.png"
   link="CakmakLab/projects"
   title="Projects"
   text=text
@@ -52,7 +54,7 @@ Our up-to-date articles from members of Cakmak Lab are shown in this section. Yo
 
 {%
   include feature.html
-  image="images/article1.jpg"
+  image="images/cakmaklab_project/publications.png"
   link="CakmakLab/publications"
   title="Publications"
   text=text

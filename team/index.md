@@ -31,7 +31,6 @@ nav:
 ---
 ### Alumni
 {:.center}
-{% include list.html data="members" component="portrait" filters="role: alumni_baysan" %}
-{% include list.html data="members" component="portrait" filters="role: alumni_cakmak" %}
+{% include list.html data="members" component="portrait" filters="status: alumni" %}
 
 {% include section.html %}

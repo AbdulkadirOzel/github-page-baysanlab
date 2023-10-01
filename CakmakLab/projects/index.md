@@ -8,7 +8,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-laptop-code" %}Projects
 
-Our ongoing projects are shown in here. You can learn details about our projects to deeply understand our laboratory efforts.  
+Check out the exciting research projects that our lab members have been working on!  
 
 ---
 
