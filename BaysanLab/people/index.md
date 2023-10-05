@@ -27,7 +27,7 @@ nav:
 {:.center}
 {% include list.html data="members" component="portrait" filters="role: undergrad_baysan" %}
 ---
-### Alumni
+### Alumni (with last known position)
 {:.center}
 {% include list.html data="members" component="portrait" filters="role: alumni_baysan" %}
 

@@ -29,7 +29,7 @@ nav:
 {:.center}
 {% include list.html data="members" component="portrait" filters="status: undergrad" %}
 ---
-### Alumni
+### Alumni (with last known position)
 {:.center}
 {% include list.html data="members" component="portrait" filters="status: alumni" %}
 

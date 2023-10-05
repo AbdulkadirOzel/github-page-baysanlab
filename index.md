@@ -3,11 +3,7 @@
 
 # ITU BIOINFORMATICS RESEARCH GROUP
 
-Welcome to the Bioinformatics Research Group at ITU. This group combines the efforts of Assoc. Prof. Mehmet BAYSAN (Baysan Lab) and Assoc. Prof. Ali ÇAKMAK (Çakmak Lab).  Baysan Lab and Çakmak Lab consist of graduate and undergraduate research students and faculty mostly from Computer Science Department. However, due to the interdisciplinary nature of our research, we also collaborate with researchers from other domains, such as biology, genetics, and medicine.
-
-Bioinformatics: We develop computational models and automated analysis methods for biological data. In particular, we focus on biochemical interactions (enzyme-enzyme and enzyme-metabolite) and metabolomics.
-
-Data mining, data management, databases: We develop data mining and management algorithms to automatically predict variety of data pieces in diverse applications that range from predicting high impact scientific papers to mining graph and text patterns in biomedical databases.
+Welcome to the Bioinformatics Research Group at ITU. We develop computational models and automated analysis methods on biological data (genomics, metabolomics, epigenetics, transcriptomics, etc.). In particular, we do research on computational genomics (see <a href="/BaysanLab/" style="text-decoration: none;">Baysan Lab</a>) and systems biology approaches (see <a href="/CakmakLab/" style="text-decoration: none;">Cakmak Lab</a>) to understand health and disease. We also develop open-source tools to make our algroithms available over the web for the bioinformatics community at large.
 
 ## Positions Available
 
@@ -15,7 +11,7 @@ Data mining, data management, databases: We develop data mining and management a
   <img src="/github-page-baysanlab/images/research_student_bg.png" width="180" height="240" style="margin-right: 25px;">
 
   <p style="gap: 20px;">
-  We are looking for graduate and undergraduate students to participate in various research projects! Candidates with good programming and analytical thinking skills are encouraged to apply. Research assistantship with TUBITAK/TUSEB support is available for qualified promising graduate students. Please contact us with your application by <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHzXpqPr0JQ2X71AHkqUtZ17Yes0GLKx1S9pLV0yDZABxjCw/viewform" style="text-decoration: none;">clicking here</a>.
+  We are looking for graduate and undergraduate students to participate in various research projects! Candidates with good programming and analytical thinking skills are encouraged to apply. Research assistantship with TUBITAK/TUSEB support is available for qualified promising graduate students. Please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHzXpqPr0JQ2X71AHkqUtZ17Yes0GLKx1S9pLV0yDZABxjCw/viewform" style="text-decoration: none;">the application form</a> if you are interested in joining our group .
   </p>
 </div>
 
@@ -25,7 +21,7 @@ Data mining, data management, databases: We develop data mining and management a
 
 {% capture text %}
 
-Meet the Bioinformatics Research Group researchers!
+Meet the members of ITU Bioinformatics Research Group!
 
 {%
   include button.html
