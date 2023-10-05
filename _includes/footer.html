@@ -16,22 +16,7 @@
   -->
 
   <div>
-    {{ site.time | date: "%Y" }}
-    &nbsp; 
-    <a href="{{ "/" | relative_url }}" class="home" style="text-decoration: none;">
-      BIOINFORMATIC RESEARCH GROUP
-    </a>
-    &nbsp; Built with
-    <a href="https://github.com/greenelab/lab-website-template">
-      Lab Website Template
-    </a>
+    {{ site.time | date: "%Y" }} © <a href="/" style="text-decoration: none;">BIOINFORMATIC RESEARCH GROUP</a>
   </div>
 
-  <input
-    type="checkbox"
-    class="dark-toggle"
-    data-tooltip="Dark mode"
-    aria-label="toggle dark mode"
-    oninput="onDarkToggleChange(event)"
-  >
 </footer>
