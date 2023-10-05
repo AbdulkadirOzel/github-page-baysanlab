@@ -1,5 +1,5 @@
 ---
-name: Esma Nafiye Polat, MSc
+name: Esma Nafiye Polat
 image: images/cakmaklab/nafiye-polat.jpeg
 role: alumni_cakmak
 status: alumni

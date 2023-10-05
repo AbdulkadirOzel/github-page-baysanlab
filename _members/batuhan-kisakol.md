@@ -1,5 +1,5 @@
 ---
-name: Batuhan Kısakol, MSc
+name: Batuhan Kısakol
 image: images/baysanlab/batuhan-kısakol.jpg
 role: alumni_baysan
 status: alumni

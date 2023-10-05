@@ -1,9 +1,9 @@
 ---
-name: Huzeyfe Ayaz, BSc
+name: Huzeyfe Ayaz
 image: images/cakmaklab/huzeyfe-ayaz.jpeg
 role: alumni_cakmak
 status: alumni
-description: Computer Engineering MSc at Technical University of Munich, ML Researcher at Huawei, Germany
+description: Computer Engineering MSc student at Technical University of Munich, ML Researcher at Huawei, Germany
 group: alum
 links:
   github: HuzeyfeAyaz

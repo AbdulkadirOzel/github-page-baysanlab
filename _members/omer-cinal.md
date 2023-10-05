@@ -1,5 +1,5 @@
 ---
-name: Ömer Çinal, BSc
+name: Ömer Çinal
 image: images/baysanlab/omer-cinal.jpg
 role: alumni_baysan
 status: alumni

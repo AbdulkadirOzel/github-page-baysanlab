@@ -1,5 +1,5 @@
 ---
-name: Şahin Sarıhan, MSc
+name: Şahin Sarıhan
 image: images/baysanlab/sahin-sarihan.jpg
 role: alumni_baysan
 status: alumni
