@@ -3,7 +3,7 @@
 
 # ITU BIOINFORMATICS RESEARCH GROUP
 
-Welcome to the Bioinformatics Research Group at ITU. We develop computational models and automated analysis methods on biological data (genomics, metabolomics, epigenetics, transcriptomics, etc.). In particular, we do research on computational genomics (see <a href="/BaysanLab/" style="text-decoration: none;">Baysan Lab</a>) and systems biology approaches (see <a href="/CakmakLab/" style="text-decoration: none;">Cakmak Lab</a>) to understand health and disease. We also develop open-source tools to make our algroithms available over the web for the bioinformatics community at large.
+Welcome to the Bioinformatics Research Group at ITU. We develop computational models and automated analysis methods on biological data (genomics, metabolomics, epigenetics, transcriptomics, etc.). In particular, we do research on computational genomics (see <a href="/BaysanLab/" style="text-decoration: none;">Baysan Lab</a>) and systems biology approaches (see <a href="/CakmakLab/" style="text-decoration: none;">Cakmak Lab</a>) to understand health and disease. We also develop open-source tools to make our algorithms available over the web for the bioinformatics community at large.
 
 ## Positions Available
 
