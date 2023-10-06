@@ -36,7 +36,7 @@ Check out the exciting research projects that our lab members have been working 
 
 {% capture text %}
 
-Our up-to-date articles from members of Cakmak Lab are shown in this section. You can access our article list in chronologic order from the link below.
+See our latest publications!
 
 {%
   include button.html
