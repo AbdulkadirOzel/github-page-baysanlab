@@ -1,5 +1,6 @@
 ---
 title: Contact
+permalink: /contact/
 nav:
   order: 8
   tooltip: Email, address, and location
