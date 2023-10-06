@@ -8,8 +8,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book" %}Publications
 
-Our up-to-date articles from members of Çakmak Lab are shown in chronologic order. 
-
 {% include section.html %}
 
 ## All
