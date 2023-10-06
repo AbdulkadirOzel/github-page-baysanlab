@@ -4,7 +4,7 @@ image: images/baysanlab/batuhan-kısakol.jpg
 role: alumni_baysan
 status: alumni
 group: alum
-description: Working at Royal College of Surgeons in Ireland
+description: PhD student at the Royal College of Surgeons, Ireland
 links:
   github: kisakol
   email: batuhankisakol@gmail.com
