@@ -8,8 +8,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-laptop-code" %}Tools
 
-We exhibited the tools produced by the laboratory teams. To get more information, you can examine the links below in detail.  
-
 ---
 
 {% include tags.html tags="publication, resource, website" %}
