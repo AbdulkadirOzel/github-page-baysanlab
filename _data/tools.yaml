@@ -1,9 +1,9 @@
-- title: Comparative Sequencing Analysis Platform
+- title: cosap.bio
   group: featured
-  image: images/project4_bl.png
-  link: https://github.com/MBaysanLab/cosap
+  image: images/cosap.png
+  link: https://cosap.bio/
 
-- title: MetaboliticsDB
+- title: metabolitics.itu.edu.tr
   group: featured
   image: images/metaboliticsdb-small.png
   link: http://metabolitics.itu.edu.tr/
