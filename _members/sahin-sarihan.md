@@ -3,10 +3,9 @@ name: Şahin Sarıhan
 image: images/baysanlab/sahin-sarihan.jpg
 role: alumni_baysan
 status: alumni
-description: Computer Engineering Working at Royal College of Surgeons in Ireland
+description: Working at Royal College of Surgeons in Ireland
 group: alum
 links:
-  github: john-doe
   orcid: 0000-0002-2597-1001
   email: sahinsrhn
 ---

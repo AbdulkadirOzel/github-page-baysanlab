@@ -3,7 +3,7 @@ name: Ali Reza Ibrahimzada
 image: images/cakmaklab/ali-reza.jpeg
 role: alumni_cakmak
 status: alumni
-description: Computer Engineering PhD student at University of Illinois Urbana-Champaign, IL
+description: PhD student at University of Illinois Urbana-Champaign, IL
 group: alum
 links:
   email: alirezai@illinois.edu

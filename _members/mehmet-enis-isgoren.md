@@ -3,7 +3,7 @@ name: Mehmet Enis Isgoren
 image: images/cakmaklab/enis-isgoren.png
 role: alumni_cakmak
 status: alumni
-description: Computer Engineering PhD student at University of Galway, Ireland
+description: PhD student at University of Galway, Ireland
 group: alum
 links:
   email: isgoren20@itu.edu.tr

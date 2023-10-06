@@ -3,7 +3,7 @@ name: Esma Nafiye Polat
 image: images/cakmaklab/nafiye-polat.jpeg
 role: alumni_cakmak
 status: alumni
-description: Computer Engineering PhD Candidate at Ozyegin University and Senior NLP Researcher at Afiniti, Istanbul
+description: PhD Candidate at Ozyegin University and Senior NLP Researcher at Afiniti, Istanbul
 group: alum
 links:
   orcid: 0000-0003-4778-2428

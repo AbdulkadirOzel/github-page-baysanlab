@@ -3,7 +3,7 @@ name: Ömer Çinal
 image: images/baysanlab/omer-cinal.jpg
 role: alumni_baysan
 status: alumni
-description: Computer Engineering Working at m3ter
+description: Working at m3ter
 group: alum
 links:
   github: OmerCinal

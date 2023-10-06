@@ -3,7 +3,7 @@ name: Mehmet Aytimur
 image: images/cakmaklab/mehmet-aytimur.jpg
 role: alumni_cakmak
 status: alumni
-description: Computer Engineering PhD student at University of Illinois Urbana-Champaign, IL
+description: PhD student at University of Illinois Urbana-Champaign, IL
 group: alum
 links:
   email: mehmetaytimur@std.sehir.edu.tr
