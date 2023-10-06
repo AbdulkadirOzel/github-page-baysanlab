@@ -1,23 +1,9 @@
 - title: Comparative Sequencing Analysis Platform
   group: featured
   image: images/project4_bl.png
-  link: /tools/cosap.html
-  description: CoSAP is an easy yet comprehensive pipeline creation tool for NGS data...
-  tags:
-    - bioinformatics
-    - genomic
-    - pipeline
-    - workflow
-    - NGS
+  link: https://github.com/MBaysanLab/cosap
 
 - title: Ongoing Project:Multi-Omics-supported Personalized Treatment Recommendation for Patients
   group: featured
   image: images/metaboliticsdb.png
-  link: /tools/multi-omics.html
-  description: Increasing availability of high throughput omics data at decreasing costs ...
-  tags:
-    - bioinformatics
-    - multi-omics
-    - diseases
-    - machine learning
-    - database
+  link: http://metabolitics.itu.edu.tr/
