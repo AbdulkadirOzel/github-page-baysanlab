@@ -1,6 +1,6 @@
 ---
 title: Contact
-permalink: /contact/
+permalink: /github-page-baysanlab/contact/
 nav:
   order: 8
   tooltip: Email, address, and location
