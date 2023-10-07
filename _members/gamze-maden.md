@@ -1,11 +1,9 @@
 ---
 name: Gamze Maden, MSc
-image: images/photo.jpg
+image: images/baysanlab/gamze-maden.jpeg
 role: phd_baysan
 description: Computer Engineering
 group: alum
-links:
-  github: john-doe
 ---
 # Gamze Maden
 
