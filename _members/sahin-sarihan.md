@@ -3,7 +3,7 @@ name: Şahin Sarıhan
 image: images/baysanlab/sahin-sarihan.jpg
 role: alumni_baysan
 status: alumni
-description: Working at Royal College of Surgeons in Ireland
+description: Genomics Data Scientist at Royal College of Surgeons, Duplin, Ireland
 group: alum
 links:
   orcid: 0000-0002-2597-1001

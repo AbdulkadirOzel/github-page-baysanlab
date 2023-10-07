@@ -3,7 +3,7 @@ name: Ömer Çinal
 image: images/baysanlab/omer-cinal.jpg
 role: alumni_baysan
 status: alumni
-description: Working at m3ter
+description: Data Engineer at m3ter, Lisbon, Portugal
 group: alum
 links:
   github: OmerCinal
