@@ -80,8 +80,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ijc.30887
-  title: "Detailed longitudinal sampling of glioma stem cells <i>in situ</i>\n reveals\
-    \ Chr7 gain and Chr10 loss as repeated events in primary tumor formation and recurrence"
+  title: Detailed longitudinal sampling of glioma stem cells <i>in situ</i> reveals
+    Chr7 gain and Chr10 loss as repeated events in primary tumor formation and recurrence
   authors:
   - Mehmet Baysan
   - Kevin Woolard
